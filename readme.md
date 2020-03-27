@@ -1,4 +1,4 @@
-#Stock Market Project 
+# Stock Market Project 
 
 The recent global health crisis has sent the media and the world into a frenzy. People are scrambling to get their groceries and personal supplies and governments seem to be in peril. The economy has slowed and employment is at its worst in years. To top it all off, people are rushing into to hospitals as new cases of the disease skyrockets. With an increase in academia supporting the link between public health and economic success, we wonder how will the amount of deaths associated with COVID-19 affect the stock market. Our results show a clear correlation between deaths and declines in the stock market. Business and economies across the globe are linked to the success of the stock market and the recent decline has made employers and employees suffer. We analyze the trend between the rise in deaths and the fall in the market to project how institutions should project economics responses to the crisis.
 
