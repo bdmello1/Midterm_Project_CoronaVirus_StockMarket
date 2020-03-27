@@ -29,10 +29,8 @@ It is also incredibly important for those who have already retired. Many retiree
 ## Reccomendations 
 
 ### Shorterm Reccomendations 
-1. Poilitical action to suspend RMDs for a specific amount of months until the eocnomy stabilizes. This will allow retieres to mitgate the negative effects of the recent decline of the economy. Retirees will not have to pull money out of the market becuase if they do might run into finacial barriers in the future. 
-
-2. Cut spending 
+Poilitical action to suspend RMDs for a specific amount of months until the eocnomy stabilizes. This will allow retieres to mitgate the negative effects of the recent decline of the economy. Retirees will not have to pull money out of the market becuase if they do might run into finacial barriers in the future. 
 
 
 ### Longterm Reccomendations
-1. Create a plan for younger generations which transtions indivduals portofiolo to decrease the amount of risk they take on so that they have a continued buffer during major economic decline. This would move assests away from riskier stock to safer options such as bonds and fixed income. 
+Create a plan for younger generations which transtions indivduals portofiolo to decrease the amount of risk they take on so that they have a continued buffer during major economic decline. This would move assests away from riskier stock to safer options such as bonds and fixed income. 
