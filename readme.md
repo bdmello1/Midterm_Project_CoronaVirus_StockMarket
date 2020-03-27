@@ -8,4 +8,4 @@ The market fell for 10 consistent days in this analysis as market fears began to
 
 What has been seen in China, the first country with virus, is that as their cases plateaued the volititly in the market fell as well. Looking at history, there becomes a consolidation period where the market for a few weeks to up to a month decides if it is vlaued at a specific price and utimately moves in that direction. This will only happen as the rate of deaths in the US begins to slow.  The following shows how the US Indexes compare to that of the total Gloabl COVID19 deaths. 
 
-![](Index_vs_Deaths.png)
+![](index_vs_deaths.png)
