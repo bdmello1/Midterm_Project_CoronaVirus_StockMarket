@@ -21,16 +21,16 @@ What has been seen in China, the first country with virus, is that as their case
 
 ## Impact of Findings
 
-Impacts on the stock market have wide ranging effects as they inmpact everyone from hourly workers to seasoned investors. However, now of the most impacted groups of all are retirees and those looking to retire shortly. For people looking to retire soon, much of their net worth is tied up in investments. As the number of Covid-19 cases and deaths rise, and the stock market falls, their net worth will generally fall as well. This may lead them to push retirement further until they have the money to support themselves without regular income from a job. By staying in their jobs longer, there sre fewer empty jobs for others to take, which only furthers the rise in unemployment.
+Impacts on the stock market have wide ranging effects as they inmpact everyone from hourly workers to seasoned investors. However, now of the most impacted groups of all are retirees and those looking to retire shortly. For people looking to retire soon, much of their net worth is tied up in investments. As the number of Covid-19 cases and deaths rise, and the stock market falls, their net worth will generally fall as well. This may lead them to push retirement further until they have the money to support themselves without regular income from a job. By staying in their jobs longer, there are fewer empty jobs for others to take, which only furthers the rise in unemployment.
 
 It is also incredibly important for those who have already retired. Many retirees keep their funds in 401(k), 403(b), and IRA accounts (also other typed depending on sector). These accounts are favorable for retirees as they have tax advantages. Once money is put into these accounts, it cannot be withdrawn without penalty until age 65. After 71.5, people are required to withdraw money in what are called "required minimum distributions." Even if the stock market is lower than it has been in years, these retirees must withdraw their money. They do not have the option to hold or to wait until the market improves. As such, not only does Covid-19 affect the elderly most dramatically health-wise, but it also has huge effects on their financial outlook and success given the inverse relationship between Covid-19 deaths and the market.
 
 
-## Reccomendations 
+## Recommendations 
 
-### Shorterm Reccomendations 
+### Shorterm Recommendations 
 Poilitical action to suspend RMDs for a specific amount of months until the eocnomy stabilizes. This will allow retieres to mitgate the negative effects of the recent decline of the economy. Retirees will not have to pull money out of the market becuase if they do might run into finacial barriers in the future. 
 
 
-### Longterm Reccomendations
+### Longterm Recommendations
 Create a plan for younger generations which transtions indivduals portofiolo to decrease the amount of risk they take on so that they have a continued buffer during major economic decline. This would move assests away from riskier stock to safer options such as bonds and fixed income. 
