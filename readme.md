@@ -9,7 +9,7 @@ The market fell for 10 consistent days in this analysis as market fears began to
 
 ![](fed_cut.png)
 
-To battle this, president Trump tries to be reassuring with his tweets and messages saying that there will be stimulus money coming which can help all parts of the business model. Some of his tweets look like Figure 1. Trump does this to build confidence in investors and try to influence the market. 
+To battle this, president Trump tries to be reassuring with his tweets and messages saying that there will be stimulus money coming which can help all parts of the business model. Some of his tweets look like Figure 2. Trump does this to build confidence in investors and try to influence the market. 
 
 ![](trump_influence.jpg)
 
