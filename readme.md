@@ -4,7 +4,7 @@ It was found that there was a direct inverse relationship with the performace of
 
 The market fell for 10 consistent days in this analysis as market fears began to rise with growing COVID19 cases. What begins to happen during day 27 is that there begins to be talks about the FED decresing interest rates to stimulate economic growth which can ecourage borrowing and investing. This is where there begins to be a rally for two days as investors think they have a buffer. The market will continue to fall as cases rise becuase stores and business will have to shut down due to the set National Emrgency which can impact indivual slaries utimately not putting money back into the economy (Figure 1). 
 
-![](fed_cute.png)
+![](fed_cut.png)
 
 To battle this, president Trump tries to be reassuring with his tweets and messages saying that there will be stimulus money coming which can help all parts of the business model. Some of his tweets look like Figure 1. Trump does this to build confidence in investors and try to influence the market. 
 
