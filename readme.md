@@ -21,7 +21,7 @@ What has been seen in China, the first country with virus, is that as their case
 
 ![](index_vs_deaths.png)
 
-Day 1 refers to 1/22/2020 and Day 29 refers to 3/3/2020. Data on the ETFs DIA, IVV, and IWM were used as these ETFS track the DOW, S&P and Russell 2000 incedes. 
+Day 1 refers to 1/22/2020 and Day 29 refers to 3/3/2020. Data on the ETFs DIA, IVV, and IWM were used as these ETFS track the DOW, S&P and Russell 2000 incedes, respectively. 
 
 ## Impact of Findings
 
