@@ -33,7 +33,7 @@ It is also incredibly important for those who have already retired. Many retiree
 ## Recommendations 
 
 ### Short-term Recommendations 
-Poilitical action to suspend RMDs for a specific amount of months until the eocnomy stabilizes. This will allow retirees to mitgate the negative effects of the recent decline of the economy. Retirees will not have to pull money out of the market becuase if they do, they might run into finacial barriers later in their retirement. 
+Poilitical action to suspend RMDs for a specific amount of months until the economy stabilizes. This will allow retirees to mitgate the negative effects of the recent decline of the economy on their portfolio. Retirees will not have to pull money out of the market becuase if they do, they might run into finacial barriers later in their retirement. 
 
 
 ### Long-term Recommendations
