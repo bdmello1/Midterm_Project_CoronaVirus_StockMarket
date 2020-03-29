@@ -37,4 +37,4 @@ Political action to suspend RMDs until the economy stabilizes. This will allow r
 
 
 ### Long-term Recommendations
-Encourage younger generations to incorporate transitions into their portfolio to decrease theit risk so that they have a continued buffer during major economic decline. This would move assets away from equity, a risky investment, to safer options such as bonds and fixed income. This would be gradual so that by the time they reach retirement, most of their net worth would be in less risky options and they would be less susceptible to the swings in the market.
+Encourage younger generations to incorporate transitions into their portfolio to decrease their risk so that they have a continued buffer during major economic decline. This would move assets away from equity, a risky investment, to safer options such as bonds and fixed income. This would be gradual so that by the time they reach retirement, most of their net worth would be in less risky options and they would be less susceptible to the swings in the market.
